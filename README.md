@@ -1,2 +1,3 @@
 # TestEnv1
-Let's begin
+This is a test repository to connect with the world of GitHub
+
